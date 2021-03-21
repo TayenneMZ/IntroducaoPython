@@ -1,3 +1,6 @@
+#Refaça o exercício 1 imprimindo os retângulos sem preenchimento, de forma que
+#os caracteres que não estiverem na borda do retângulo sejam espaços.
+
 linha = 1
 
 largura = int(input('Digite a largura'))
